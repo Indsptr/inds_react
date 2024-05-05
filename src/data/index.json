@@ -1,0 +1,51 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "Front-End",
+      "description": "I have a little experience in using HTML, CSS, and Javascript and am still trying to improve my front-end skills."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Back-end is new to me, I'm learning everything about back-end from frameworks to cybersecurity."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI Design",
+      "description": "I have a lot of experience in design an application both mobile and website. I also often work on several projects."
+    },
+    {
+      "id": "4",
+      "src": "./img/broadcast.png",
+      "title": "Broadcast",
+      "description": "In broadcast I have experience in streaming where I have streamed for Team RRQ in the RRQ Mabar event."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "RIIE UNY",
+      "description": "Project RIIE UNY is a project for the international event of Yogyakarta State University. I made the User Interface for this website.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Redesign BCA Mobile",
+      "description": "Trying to make a redesign for BCA Mobile to make it look more attractive and more modern because the BCA Mobile application has an old design.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "E-Kepegawaian",
+      "description": "E-Kepegawaian is a research project with lecturers to facilitate staff in rotating employees by providing a clear and modern design.",
+      "link": "View In Github"
+    }
+  ]
+}
